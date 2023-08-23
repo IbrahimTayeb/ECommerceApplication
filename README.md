@@ -1,1 +1,1 @@
-# ECommerceApplication
+# E-Commerce Application with home page
